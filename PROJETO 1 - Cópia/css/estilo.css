@@ -1,0 +1,110 @@
+.menu1{
+background-color: rgba(209, 216, 221, 0.829);
+width: 100%;
+height: 30px;
+text-align: center;
+
+}
+   
+.nav-item{
+
+padding-left: 80px;
+
+}
+
+
+
+
+
+.collapse{
+
+    
+    position: fixed;
+    background-color: #1d1d1fde;
+   
+    left: 0px;
+    top: 0px;
+     width: 100%;
+     padding-left: 190px;
+
+
+
+    }
+
+#nosso_trb{
+    text-align: end;
+    padding-right: 20px;
+    padding-top: 30px;
+    font: normal;
+}
+#txtnss{
+    color: rgb(104, 104, 247);
+}
+
+#prje{
+    padding-top: 100px;
+    padding-bottom: 300px;
+    padding-left: 10px;
+    text-align: center;
+}
+ 
+.projeto1{
+
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.projeto2{
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 130px;
+
+
+}
+.projeto1:hover{
+     width: 650px;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+   cursor: pointer;
+}
+.projeto2:hover{
+    width: 700px;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 100px;
+    cursor: pointer;
+
+}
+
+
+
+#total{
+    background-color: #e4dadac5 ;
+    
+   
+
+}
+
+#sdev{
+    padding-bottom: 90px;
+    padding-left: 10px;
+    
+}
+.rounded{
+    background-color: #1d1d1f0a;
+  
+}
+.rounded:hover{
+
+    background-color:#1d1d1f3f;
+    
+}
+.menua{
+
+background-color: rgb(243, 244, 245);
+text-align: center;
+height: 26px;
+}
